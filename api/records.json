@@ -1,0 +1,32 @@
+[
+  {
+    "RecordId": 1,
+    "RecordName": "Seven",
+    "ArtistName": "Emily King",
+    "PurchaseDate": null
+  },
+  {
+    "RecordId": 2,
+    "RecordName": "The Switch",
+    "ArtistName": "Emily King",
+    "PurchaseDate": null
+  },
+  {
+    "RecordId": 3,
+    "RecordName": "Scenery",
+    "ArtistName": "Emily King",
+    "PurchaseDate": null
+  },
+  {
+    "RecordId": 4,
+    "RecordName": "Glass House",
+    "ArtistName": "Jessie Ware",
+    "PurchaseDate": null
+  },
+  {
+    "RecordId": 5,
+    "RecordName": "Devotion",
+    "ArtistName": "Jessie Ware",
+    "PurchaseDate": null
+  }
+]
