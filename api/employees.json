@@ -1,0 +1,53 @@
+[
+  {
+		"employeeId": 1,
+		"firstName": "Poppy",
+		"lastName": "Li",
+		"emailAddress": "Poppy.Li@opus.com",
+		"dob": "2000-10-05T00:00:00",
+		"gender": 1,
+		"departmentId": 1,
+		"photoPath": "images/personStock.jpg"
+	},
+	{
+		"employeeId": 2,
+		"firstName": "Brad",
+		"lastName": "Baskshi",
+		"emailAddress": "Brad.Bakshi@opus.com",
+		"dob": "1987-11-15T00:00:00",
+		"gender": 0,
+		"departmentId": 1,
+		"photoPath": "images/personStock.jpg"
+	},
+	{
+		"employeeId": 3,
+		"firstName": "Richard",
+		"lastName": "Hendricks",
+		"emailAddress": "Richard.Hendricks@opus.com",
+		"dob": "1979-01-01T00:00:00",
+		"gender": 0,
+		"departmentId": 1,
+		"photoPath": "images/personStock.jpg"
+	},
+	{
+		"employeeId": 4,
+		"firstName": "Malcolm",
+		"lastName": "Adekanbi",
+		"emailAddress": "Malcolm.Adekanbi@opus.com",
+		"dob": "1980-03-22T00:00:00",
+		"gender": 0,
+		"departmentId": 1,
+		"photoPath": "images/personStock.jpg"
+	},
+	{
+		"employeeId": 5,
+		"firstName": "Elliot",
+		"lastName": "Alderson",
+		"emailAddress": "Elliot.Alderson@opus.com",
+		"dob": "1986-09-17T00:00:00",
+		"gender": 0,
+		"departmentId": 1,
+		"photoPath": "images/personStock.jpg"
+
+	}
+]
