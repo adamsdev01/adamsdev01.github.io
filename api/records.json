@@ -1,32 +1,36 @@
 [
   {
-    "RecordId": 1,
-    "RecordName": "Seven",
-    "ArtistName": "Emily King",
-    "PurchaseDate": null
+    "UniqueId": 7,
+    "AlbumName": "Introducing...",
+    "ArtistFName": "AARON",
+    "ArtistLName": "FRAZER",
+    "ComingSoon": null,
+    "ImageUrl": "/staticfiles/images/20230224_220013.jpg",
+    "Review": null,
+    "InsertedDate": "2023-02-26T16:58:14.63",
+    "Genre": "Alternative/Indie, Rock"
   },
   {
-    "RecordId": 2,
-    "RecordName": "The Switch",
-    "ArtistName": "Emily King",
-    "PurchaseDate": null
+    "UniqueId": 8,
+    "AlbumName": "Okonski",
+    "ArtistFName": "Magnolia",
+    "ArtistLName": null,
+    "ComingSoon": null,
+    "ImageUrl": "/StaticFiles/Images/20230224_215959.jpg",
+    "Review": null,
+    "InsertedDate": "2023-02-26T17:13:54.23",
+    "Genre": "Jazz"
   },
   {
-    "RecordId": 3,
-    "RecordName": "Scenery",
-    "ArtistName": "Emily King",
-    "PurchaseDate": null
-  },
-  {
-    "RecordId": 4,
-    "RecordName": "Glass House",
-    "ArtistName": "Jessie Ware",
-    "PurchaseDate": null
-  },
-  {
-    "RecordId": 5,
-    "RecordName": "Devotion",
-    "ArtistName": "Jessie Ware",
-    "PurchaseDate": null
+    "UniqueId": 9,
+    "AlbumName": "Whipped Cream & Other Delights",
+    "ArtistFName": "Herb Alpert's Tijuana Brass",
+    "ArtistLName": null,
+    "ComingSoon": null,
+    "ImageUrl": "/staticfiles/images/20230224_220022.jpg",
+    "Review": null,
+    "InsertedDate": "2023-02-26T20:59:36.763",
+    "Genre": "Jazz"
   }
+    
 ]
