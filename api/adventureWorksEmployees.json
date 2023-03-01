@@ -1,6 +1,4 @@
-{
-  "vEmployees":
-  [
+ [
     {
       "BusinessEntityID": 1,
       "Title": null,
@@ -5802,4 +5800,4 @@
       "AdditionalContactInfo": null
     }
   ]
-}
+
